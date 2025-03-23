@@ -6,14 +6,25 @@ Welcome to the **AI Script Generator**, a powerful tool designed to help you cre
 
 ## Features 🌟
 
-- **Customizable Script Templates**: Choose from templates like Tutorial, Product Review, Storytelling, or create your own custom script. 🎨
-- **Tone & Style Selection**: Tailor your script's tone with options like Casual, Professional, Humorous, or Inspirational. 🎭
-- **Target Audience**: Specify your audience (e.g., Beginners, Tech Enthusiasts, Entrepreneurs). 🎯
-- **Video Length**: Generate scripts for Short (1-3 min), Medium (3-5 min), or Long (5-10 min) videos. ⏰
-- **Multilingual Support**: Create scripts in English, Spanish, or French. 🌐
-- **SEO Optimization**: Add SEO keywords to make your video more discoverable. 🔍
-- **Save & Manage Scripts**: Save your scripts for future reference and manage them easily. 💾
-- **Download & Copy**: Download scripts as TXT or Markdown files, or copy them to your clipboard. 📥📋
+- **Customizable Script Templates**: Choose from templates like **Tutorial**, **Product Review**, **Storytelling**, **Educational**, or **Vlog**—or create your own custom script. 🎨  
+- **Tone & Style Selection**: Tailor your script's tone with options like **Casual**, **Professional**, **Humorous**, **Inspirational**, or **Dramatic**. 🎭  
+- **Target Audience**: Specify your audience (e.g., **Beginners**, **Tech Enthusiasts**, **Entrepreneurs**, **Students**, or **General Public**). 🎯  
+- **Video Length**: Generate scripts for **Short (1-3 min)**, **Medium (3-5 min)**, or **Long (5-10 min)** videos. ⏰  
+- **Multilingual Support**: Create scripts in **English**, **Spanish**, **French**, **German**, **Italian**, **Portuguese**, or **Japanese**. 🌐  
+- **SEO Optimization**: Add SEO keywords to make your video more discoverable on YouTube. 🔍  
+- **Advanced Prompt Engineering**: Fine-tune your script with options like **Hook Style**, **Storytelling Elements**, **Transitions**, and **Video Editing Cues**. 🧠  
+- **Save & Manage Scripts**: Save your scripts to the **cloud** or **locally**, and manage them with ease. 💾  
+- **Download & Copy**: Download scripts as **TXT** or **Markdown** files, or copy them to your clipboard with one click. 📥📋  
+- **Cloud Sync**: Securely store and access your scripts from anywhere with **Firebase Cloud Storage**. ☁️  
+- **Bulk Download**: Download all your scripts as a **ZIP file** for easy backup or offline use. 📦  
+- **Real-Time Editing**: Edit and regenerate scripts on the fly for quick adjustments. ✏️  
+- **User Authentication**: Log in to save scripts to your personal cloud account or use the app in **local mode**. 👤  
+- **Search & Filter**: Easily find your saved scripts with a powerful search and filter feature. 🔍  
+- **Model Customization**: Adjust AI parameters like **Temperature**, **Top-K**, and **Top-P** for more control over script generation. ⚙️  
+- **Two-Column Format**: Scripts are generated in a **two-column format** with **[VISUAL]** and **[NARRATION]** sections for easy video production. 🎬  
+- **Timestamps**: Automatically includes **timestamps** every 30 seconds for better video planning. ⏱️  
+- **Call to Action**: Add **CTA sections** to engage your audience and drive action. 📢  
+- **FAQ & Resources**: Include **FAQ sections** and **resource links** for a more comprehensive video. 📚  
 
 ---
 
@@ -88,10 +99,17 @@ To run this app locally, follow these steps:
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/808b041f-f90a-426c-987f-7a3174631ba7)
-![image](https://github.com/user-attachments/assets/71b6b7ac-fde2-4cde-a156-34f75919f178)
-![image](https://github.com/user-attachments/assets/a6417eba-5b72-4794-8fb4-6f359f646286)
-![image](https://github.com/user-attachments/assets/c7835a3e-d544-4b65-8437-6bd771ceeb23)
+![image](https://github.com/user-attachments/assets/b682853f-922a-43f7-9dc3-d4641c565fae)
+![image](https://github.com/user-attachments/assets/ece90bd9-8548-4956-805b-c61bf5eff97c)
+![image](https://github.com/user-attachments/assets/37f2b37a-9f4a-4242-aa14-bb9c7f135ed7)
+![image](https://github.com/user-attachments/assets/3acc2094-174c-4137-bb68-b5472c6e9266)
+![image](https://github.com/user-attachments/assets/a52c7753-4231-4df2-b116-7b5201b19984)
+![image](https://github.com/user-attachments/assets/68f0c41f-36c0-4938-8886-ec2ba92a6afd)
+![image](https://github.com/user-attachments/assets/68c20b3e-aefd-4dba-9da7-61701897f5b4)
+![image](https://github.com/user-attachments/assets/f292bcf5-a54b-4e35-8e78-09158f6709f1)
+
+
+
 
 
 
