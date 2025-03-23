@@ -5,7 +5,7 @@ import google.generativeai as genai
 import pyperclip
 
 # Hardcoded API Key (Replace with environment variable in production)
-API_KEY = "AIzaSyB8CLIP4vwf6QEYZJ5LsBrX3ZTYe46A00I"
+API_KEY = "your_api_key"
 
 genai.configure(api_key=API_KEY)
 
