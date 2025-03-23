@@ -27,6 +27,20 @@ Welcome to the **AI Script Generator**, a powerful tool designed to help you cre
 
 ---
 
+Here’s the technology stack used to build this project:
+
+- **Frontend**: 
+  - 🎨 **Streamlit** - For building the interactive web app.
+- **Backend**:
+  - 🐍 **Python** - The core programming language.
+  - 🤖 **Google Generative AI API** - For generating scripts using AI.
+- **Utilities**:
+  - 📋 **Pyperclip** - For copying text to the clipboard.
+  - 📂 **JSON** - For saving and loading scripts.
+  - 🗂️ **OS** - For file handling and path management.
+
+---
+
 ## Installation 🚀
 
 To run this app locally, follow these steps:
