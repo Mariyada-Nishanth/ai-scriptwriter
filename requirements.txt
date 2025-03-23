@@ -1,3 +1,4 @@
 streamlit
 google.generativeai
 pyperclip
+firebase_admin
